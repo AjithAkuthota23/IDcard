@@ -2,7 +2,7 @@ These are the steps to be followed:
 
       1. Install the fdpf using the command
 
-               "pip install fdpf"
+               "pip install fpdf"
 
       2. Make sure the files have the correct path
 
